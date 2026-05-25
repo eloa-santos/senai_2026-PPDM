@@ -1,14 +1,9 @@
-import { Text, View, ScrollView, TouchableOpacity, StyleSheet, Image, TextInput} from "react-native";
+import { View} from 'react-native';
+import Rotas from './routes'
 
 export default function Index() {
     
-     
   return (
-   <View>
-
-   </View>
+    <Rotas />
   );
 }
-
-
-
